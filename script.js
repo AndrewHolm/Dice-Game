@@ -1,9 +1,9 @@
 // Andy Holm
 // 10-2022
 //
-// Game that switched between two players rolling die. Score will contnue to
-// accumilate until a 1 is rolled. Player is given option to hold before each
-// roll. If one is rolled before they hold then the score will reset. first
+// Game that switches between two players rolling die. Score will contnue to
+// accumulate until a '1' is rolled. Player is given option to hold before each
+// roll. If one is rolled before they hold then the score will reset. The first
 // player to reach 100 points wins.
 //
 // Project from udemy course
